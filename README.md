@@ -39,7 +39,6 @@ class football_playerAdmin(admin.ModelAdmin):
    list_display=('p_regno','p_name','p_age','p_country','p_email')
 
 ```
-Include your code here
 
 ## OUTPUT
 ![Alt text](<Screenshot (16).png>)
